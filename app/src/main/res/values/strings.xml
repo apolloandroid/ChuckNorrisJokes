@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChuckNorrisJokes</string>
+<!--  Bottom Navigation  -->
+    <string name="bottom_navigation_menu_title_web">Web</string>
+    <string name="bottom_navigation_menu_title_jokes">Jokes</string>
+
+<!--    Jokes Fragment-->
+    <string name="button_reload_text">Load jokes</string>
+    <string name="edit_text_hint">Enter number</string>
+
+<!--    Info Fragment-->
+    <string name="jokes_api_url">http://www.icndb.com/api</string>
+    <string name="shackbar_no_internet">No Internet Connection</string>
+    <string name="shackbar_empty_query">Enter number of jokes</string>
+</resources>
